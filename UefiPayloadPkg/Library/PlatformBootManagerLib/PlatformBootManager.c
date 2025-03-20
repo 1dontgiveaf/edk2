@@ -328,7 +328,7 @@ PlatformBootManagerAfterConsole (
     BootLogoUpdateProgress (
       White,
       Black,
-      L"",
+      L"ESC for boot menu",
       White,
       0,
       0
@@ -337,7 +337,7 @@ PlatformBootManagerAfterConsole (
     BootLogoUpdateProgress (
       White,
       Black,
-      L"Press F2 or Down now or else",
+      L"F2/Down for boot menu",
       White,
       0,
       0
